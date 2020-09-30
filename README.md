@@ -21,9 +21,8 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` (1)alexandre-debieve-FO7JIlwjOtU-unsplash (1)](alexandre-debieve-FO7JIlwjOtU-unsplash (1)) and ![](src)
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
