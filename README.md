@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Python</title>
+    PYTHON
   </head>
   <body>
     <h1>My first web page</h1>
